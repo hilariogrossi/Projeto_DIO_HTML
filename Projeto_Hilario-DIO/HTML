@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>HILÁRIO GROSSI DE OLIVEIRA</title>
+</head>
+<body>
+    <header class="header-wrapper">
+        <div class="header">
+            <div class="checkbox-container">
+                <div class="checkbox-wrapper">
+                    <input type="checkbox" id="toggle">
+                    <label class="checkbox" for="toggle">
+                        <div class="trace"></div>
+                        <div class="trace"></div>
+                        <div class="trace"></div>
+                    </label>
+                    <div class="menu"></div>
+                    <nav class="menu-items">
+                        <ul>
+                            <li>
+                                <a href="#">Home</a>
+                            </li>
+                            <li>
+                                <a href="#">Sobre</a>
+                            </li>
+                            <li>
+                                <a href="#">Projetos</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <h1>Hilário Grossi de Oliveira</h1>
+        <h2>Aluno da DIO</h2>
+        <div class="social-media">
+            <a href="#">Linkedin</a>
+            <a href="#">Github</a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="card-container">
+            <div class="card-text">Estou iniciando na área de programação fazendo o curso da UNI421, na DIO e na Staar (Grupo Primo).
+            </div>
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Github</h2>
+                    <p>Veja meus projetos!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Linkedin</h2>
+                    <p>Veja minha carreira profissional!</p>
+                </div>
+            </div>
+            <div class="card-text">Possuo graduação em Farmácia e Bioquímica com Habilitação em Indústria
+                pela Universidade Federal de Ouro Preto (1993) e Pós Graduação em Farmacologia - Atualização
+                e Novas Perspectivas pela Universidade Federal de Lavras (2003). Possuo experiência em
+                Análise Bromatológica, Operações Unitárias na Indústria Farmacêutica, Controle de Qualidade em
+                Produtos Farmacêuticos, Química Bromatológica, Microscopia de Alimentos, Controle de Qualidade em
+                Alimentos, Farmacodinâmica I e Introdução à Farmácia Industrial. Tenjo experiência na área de
+                Farmácia e Drogaria, Controle de Qualidade em Produtos Farmacêuticos, Operações Unitárias na
+                Indústria Farmacêutica e Manipulação Magistral. Atuo na área burocrática de farmácias e drogarias,
+                como SNGPC, controle de estoques, registros e papeis inerentes à ANVISA, renovação de AE e AFE de empresas.
+                Professor de Química licenciado atuando em escolas públicas e particulares de ensino médio.
+            </div>
+        </div>
+        
+        <div class="card-container">
+            <div class="card-text">Acompanhe meu dia-a-dia no meu Instagram. Eu te amo, sinto muito, por favor me perdoe. Obrigado. Obrigado. Obrigado.
+            </div>
+            <div class="card">
+                <div class="card-wrapper">
+                    <h2>Instagram</h2>
+                    <p>Mais do meu dia-a-dia ;)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        Feito por Hilário Grossi de Oliveira
+    </footer>
+</body>
+</html>
